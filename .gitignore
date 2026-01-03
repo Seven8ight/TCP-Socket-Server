@@ -1,0 +1,8 @@
+# Build Files
+/*.a
+/*.o
+
+# Executables
+Client
+/*.exe
+Server
